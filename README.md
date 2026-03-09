@@ -92,8 +92,10 @@ Interactive filters allow users to analyze insurance metrics across multiple dim
 
 ---
 
-insurance-premium-analytics-dashboard
+## Project Structure
+
 ```
+insurance-premium-analytics-dashboard
 │
 ├── README.md
 │
