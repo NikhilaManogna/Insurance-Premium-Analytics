@@ -93,6 +93,7 @@ Interactive filters allow users to analyze insurance metrics across multiple dim
 ---
 
 insurance-premium-analytics-dashboard
+```
 │
 ├── README.md
 │
@@ -111,6 +112,8 @@ insurance-premium-analytics-dashboard
 └── images
 └── dashboard_overview.png
 └── premium_analysis.png
+
+```
 
 ## Key Insights
 
