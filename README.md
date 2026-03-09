@@ -124,5 +124,3 @@ insurance-premium-analytics-dashboard
 - Agent performance differs across regions and zones.
 - Regional and zonal management structures influence policy distribution.
 - Customer segmentation helps identify high-value policy holders.
-
-## Project Structure
